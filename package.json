@@ -1,0 +1,11 @@
+{
+  "name": "coding_style_app",
+  "version": "1.0.0",
+  "description": "Application that checks if a file abides by a coding style.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Motsumi Makhene",
+  "license": "ISC"
+}
